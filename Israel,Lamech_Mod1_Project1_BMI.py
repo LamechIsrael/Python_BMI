@@ -2,7 +2,7 @@
 # CS 1110A - Programming in Python   #
 # Module 1 - Project 1 - BMI         #
 # Author: Lamech Israel              #
-# Date:   01/11/2022                 #
+#                                    #
 ######################################
 
 
